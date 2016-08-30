@@ -1,6 +1,6 @@
 {
   "name": "obj2gltf",
-  "version": "0.0.1",
+  "version": "0.0.9",
   "description": "Convert OBJ model format to glTF",
   "license": "Apache-2.0",
   "author": {
@@ -28,7 +28,7 @@
     "byline": "^4.2.1",
     "cesium": "^1.22.0",
     "fs-extra": "^0.30.0",
-    "gltf-pipeline": "git://github.com/AnalyticalGraphicsInc/gltf-pipeline.git",
+    "gltf-pipeline": "git://github.com/AnalyticalGraphicsInc/gltf-pipeline.git#0.1.0-alpha3",
     "path": "^0.12.7",
     "yargs": "^4.7.1"
   },
